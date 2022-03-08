@@ -37,7 +37,7 @@ thind-prd-knob.data.ie.unity3d.com
 remote-config-proxy-prd.uca.cloud.unity3d.com
 data-optout-service.uca.cloud.unity3d.com
 
-#GOG
+# GOG
 marketing-sections.gog.com
 insights-collector.gog.com
 
