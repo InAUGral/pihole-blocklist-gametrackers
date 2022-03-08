@@ -25,3 +25,6 @@ Pi-hole: https://discourse.pi-hole.net/t/how-do-i-add-additional-block-lists-to-
 
 Author:
 InAUGral
+
+Contributors:
+Ungstein
