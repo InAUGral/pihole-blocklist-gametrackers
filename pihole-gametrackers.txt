@@ -1,47 +1,47 @@
 # Google
-0.0.0.0 google-analytics.com
-0.0.0.0 google-analytics.ie
-0.0.0.0 pagead.googlesyndication.com
-0.0.0.0 pagead2.googlesyndication.com
-0.0.0.0 ad.doubleclick.net
-0.0.0.0 ypn-js.overture.com
-0.0.0.0 googleads.g.doubleclick.net
-0.0.0.0 googletagmanager.com
+google-analytics.com
+google-analytics.ie
+pagead.googlesyndication.com
+pagead2.googlesyndication.com
+ad.doubleclick.net
+ypn-js.overture.com
+googleads.g.doubleclick.net
+googletagmanager.com
 
 # nVidia
-0.0.0.0    ls.dtrace.nvidia.com
-0.0.0.0    telemetry.gfe.nvidia.com
-0.0.0.0    accounts.nvgs.nvidia.com
-0.0.0.0    nvidia.tt.omtrdc.net
-0.0.0.0    api.commune.ly
-0.0.0.0    login.nvgs.nvidia.cn
+ls.dtrace.nvidia.com
+telemetry.gfe.nvidia.com
+accounts.nvgs.nvidia.com
+nvidia.tt.omtrdc.net
+api.commune.ly
+login.nvgs.nvidia.cn
 
 # Redshell
-0.0.0.0    redshell.io
-0.0.0.0    api.redshell.io
-0.0.0.0    treasuredata.com
-0.0.0.0    api.treasuredata.com
+redshell.io
+api.redshell.io
+treasuredata.com
+api.treasuredata.com
 
 # Blizzard
-0.0.0.0    telemetry-in.battle.net
+telemetry-in.battle.net
 
 # Epic Games
-# 0.0.0.0 dev.epicgames.com
-# 0.0.0.0 api.epicgames.dev
-# 0.0.0.0 et.epicgames.com
-# 0.0.0.0 et2.epicgames.com
-# 0.0.0.0 udn.epicgames.com
-# 0.0.0.0 etsource.epicgames.com
-# 0.0.0.0 metrics.ol.epicgames.com
-# 0.0.0.0 datarouter.ol.epicgames.com
+dev.epicgames.com
+api.epicgames.dev
+et.epicgames.com
+et2.epicgames.com
+udn.epicgames.com
+etsource.epicgames.com
+metrics.ol.epicgames.com
+datarouter.ol.epicgames.com
 
 # Unity Engine
-0.0.0.0 cdp.cloud.unity3d.com
-0.0.0.0 api.uca.cloud.unity3d.com
-0.0.0.0 config.uca.cloud.unity3d.com
-0.0.0.0 perf-events.cloud.unity3d.com
-0.0.0.0 prd-lender.cdp.internal.unity3d.com
-0.0.0.0 thind-gke-usc.prd.data.corp.unity3d.com
-0.0.0.0 thind-prd-knob.data.ie.unity3d.com
-0.0.0.0 remote-config-proxy-prd.uca.cloud.unity3d.com
-0.0.0.0 data-optout-service.uca.cloud.unity3d.com
+cdp.cloud.unity3d.com
+api.uca.cloud.unity3d.com
+config.uca.cloud.unity3d.com
+perf-events.cloud.unity3d.com
+prd-lender.cdp.internal.unity3d.com
+thind-gke-usc.prd.data.corp.unity3d.com
+thind-prd-knob.data.ie.unity3d.com
+remote-config-proxy-prd.uca.cloud.unity3d.com
+data-optout-service.uca.cloud.unity3d.com
