@@ -10,11 +10,12 @@ Blocklists to block the communication to game related trackers or domains that a
 
 A working Pihole installation
 
-Installation:
+**Installation:**
 
 Go to the Group management on the left menu on the Pihole web page and go to Adlists.
 
 Add the following URL to Address field.
+
 Address: https://raw.githubusercontent.com/InAUGral/pihole-gametrackers/main/pihole-gametrackers.txt
 Comment field (optional): Gametrackers
 
