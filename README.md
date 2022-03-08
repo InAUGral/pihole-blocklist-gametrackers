@@ -3,7 +3,8 @@ Pihole list of game related trackers to block (PC gaming)
 
 **Description:**
 Blocklists to block the communication to game related trackers or domains that are otherwise undesireable.
-
+The goal of this list is to block any telemetry and tracking domains that are used by game related services ONLY. Any domains that are general or impact the use of said service or application. If that is something people desire perhaps we can make a "paranoid" version of this list.
+Feel free to log an issue if you want to have a domain added and it will be tested for impact prior to adding to the list.
 
 
 **Prerequisites:**
