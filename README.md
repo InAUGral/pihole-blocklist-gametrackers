@@ -12,13 +12,13 @@ Feel free to log an issue if you want to have a domain added and it will be test
 A working Pihole installation
 
 **List of services for which tracking is blocked:**
-NVidia
-Redshell
-Blizzard
-Epic Games
-Unity Engine
-GOG
-Google (not necessarily game related but common traffic that is easily blocked and possibly used without knowing)
+- Nvidia
+- Redshell
+- Blizzard
+- Epic Games
+- Unity Engine
+- GOG
+- Google (not necessarily game related but common traffic that is easily blocked and possibly used without knowing)
 
 **Installation:**
 
