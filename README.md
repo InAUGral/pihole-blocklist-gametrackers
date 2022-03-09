@@ -13,7 +13,7 @@ A working Pihole installation
 
 **List of services for which tracking is blocked:**
 - Nvidia
-- Redshell
+- Redshell (Spyware included in games)
 - Blizzard
 - Epic Games
 - Unity Engine
